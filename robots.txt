@@ -9,4 +9,4 @@ Allow: /
 Allow: /archives
 Allow: /catagories
 Allow: /tags/
-Sitemap: /sitemap.xml
+Sitemap: http://kanemaro.github.io/sitemap.xml
